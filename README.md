@@ -14,7 +14,7 @@ As seen in previous attempts, the push for clean energy does not always produce 
 ![alt text](<Untitled drawing (4).png>)
 
 ## Refined CLD
-![alt text](<Refind CLD_mf.drawio>)
+![alt text](<Refined CLD_mf.drawio>)
 
 
 ## Data Sources 
