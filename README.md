@@ -64,7 +64,7 @@ This visualization displays the portion of electric generation created by both h
 ![alt text](<img/Hydraulic Turbine's Impacts on Total Emissions NL 2009-2023.png>)
 
 ![alt text](<img/Hydraulic Turbine's Impacts on Total Emissions NL 2009-2023 (With Trend Lines).png>)
-This report shows the relationship between emissions and hydro power, and how the use of sustaiable electricity can effect the emission output of the island. As seen in the visualization, as hydro generation goes up, the reported amount of emissions goes down. There is a notable dip in emissions for the year 2020, as this was during the COVID-19 self isolation period. This report is important for the decision maker as they can see how established hydro-technology has helped influence emissions, and if it is worth it to continue on this path to power their clean energy future. 
+These reports shows the relationship between emissions and hydro power, and how the use of sustaiable electricity can effect the emission output of the island. As seen in the visualization, as hydro generation goes up, the reported amount of emissions goes down. There is a notable dip in emissions for the year 2020, as this was during the COVID-19 self isolation period. This report is important for the decision maker as they can see how established hydro-technology has helped influence emissions, and if it is worth it to continue on this path to power their clean energy future. The use of trendlines helps display the rise in hydro-electric generation and the fall in emissions from 2009-2023. 
 
 
 
